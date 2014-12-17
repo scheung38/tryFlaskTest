@@ -35,7 +35,6 @@ WTForms==2.0.1
 Werkzeug==0.9.6
 Whoosh==2.6.0
 XlsxWriter==0.6.4
-abstract-rendering==0.5.1
 alembic==0.7.1
 argcomplete==0.8.1
 astropy==0.4.2
