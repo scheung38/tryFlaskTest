@@ -1,1 +1,1 @@
-web: gunicorn tryFlaskTest.app
+web: gunicorn run:app
