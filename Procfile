@@ -1,1 +1,1 @@
-web: gunicorn tryflasktest.wsgi  --log-file -
+web: python hello.py
